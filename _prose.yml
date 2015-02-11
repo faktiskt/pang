@@ -23,17 +23,3 @@ prose:
           element: "text"
           label: "Titel"
           value: ""
-      - name: "tags"
-        field:
-          element: "multiselect"
-          label: "Taggar"
-          placeholder: "Välj taggar"
-          options:
-            - name: "Ekonomi"
-              value: "Ekonomi"
-            - name: "Migration"
-              value: "Migration"
-            - name: "Jämställdhet"
-              value: "Jämställdhet"
-            - name: "Miljö"
-              value: "Miljö"
