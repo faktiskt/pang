@@ -1,6 +1,6 @@
 +++
+Categories = ["Jämställdhet"]
 date = "2015-02-06T13:02:36+01:00"
-draft = true
 title = "Jämställdhet 1"
 +++
 
