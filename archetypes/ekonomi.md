@@ -1,5 +1,5 @@
-+++
-Description = "Ekonomi"
-Tags = ["ekonomi"]
-Categories = ["Ekonomi"]
-+++
+---
+Description: "Ekonomi"
+Tags: ["ekonomi"]
+Categories: ["Ekonomi"]
+---

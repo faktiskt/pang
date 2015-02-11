@@ -1,8 +1,8 @@
-+++
-Categories = ["Miljö"]
-date = "2015-02-06T13:05:40+01:00"
-title = "Miljö 1"
-+++
+---
+Categories: ["Miljö"]
+date: "2015-02-06T13:05:40+01:00"
+title: "Miljö 1"
+---
 
 Pellentesque auctor nisi id magna consequat sagittis. Curabitur dapibus enim
 sit amet elit pharetra tincidunt feugiat nisl imperdiet. Ut convallis libero in

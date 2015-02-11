@@ -1,8 +1,8 @@
-+++
-Categories = ["Jämställdhet"]
-date = "2015-02-06T13:02:36+01:00"
-title = "Jämställdhet 1"
-+++
+---
+Categories: ["Jämställdhet"]
+date: "2015-02-06T13:02:36+01:00"
+title: "Jämställdhet 1"
+---
 
 Praesent elit lacus, vestibulum at malesuada et, ornare et est. Ut augue nunc,
 sodales ut euismod non, adipiscing vitae orci. Mauris ut placerat justo. Mauris

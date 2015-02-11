@@ -1,10 +1,10 @@
-+++
-Categories = ["Ekonomi"]
-Description = "Ekonomi"
-Tags = ["ekonomi"]
-date = "2015-02-06T13:26:46+01:00"
-title = "Ekonomi 4"
-+++
+---
+Categories: ["Ekonomi"]
+Description: "Ekonomi"
+Tags: ["ekonomi"]
+date: "2015-02-06T13:26:46+01:00"
+title: "Ekonomi 4"
+---
 
 Vivamus fermentum semper porta. Nunc diam velit, adipiscing ut tristique vitae,
 sagittis vel odio. Maecenas convallis ullamcorper ultricies. Curabitur ornare,

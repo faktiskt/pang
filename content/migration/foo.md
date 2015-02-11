@@ -1,8 +1,8 @@
-+++
-Categories = ["Migration"]
-date = "2015-02-06T13:06:27+01:00"
-title = "Migration 1"
-+++
+---
+Categories: ["Migration"]
+date: "2015-02-06T13:06:27+01:00"
+title: "Migration 1"
+---
 
 Curabitur venenatis pulvinar tellus gravida ornare. Sed et erat faucibus nunc
 euismod ultricies ut id justo. Nullam cursus suscipit nisi, et ultrices justo

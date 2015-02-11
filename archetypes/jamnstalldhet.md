@@ -1,5 +1,5 @@
-+++
-Description = "Jämställdhet"
-Tags = ["jämställdhet"]
-Categories = ["Jämställdhet"]
-+++
+---
+Description: "Jämställdhet"
+Tags: ["jämställdhet"]
+Categories: ["Jämställdhet"]
+---
