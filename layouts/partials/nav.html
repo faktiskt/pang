@@ -1,12 +1,31 @@
-  <header>
-    <nav>
-      <ul>
-        <li><span><a href="/pang">Hem</a></span></li>
-        <li><span><a href="/pang/jamstalldhet/">Jämställdhet</a></span></li>
-        <li><span><a href="/pang/miljo/">Miljö</a></span></li>
-        <li><span><a href="/pang/migration/">Migration</a></span></li>
-        <li><span><a href="/pang/ekonomi/">Ekonomi</a></span></li>
-        <li><span><input type="search" /></span></li>
-      </ul>
+{{ $currentPath := .UrlPath.Url }}
+{{ $baseUrl := .Site.BaseUrl }}
+
+   <nav class="navbar navbar-inverse navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Visa navigering</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="/pang">Jamkatt</a>
+        </div>
+        <div id="navbar" class="navbar-collapse collapse">
+          <ul class="nav navbar-nav">
+            {{ range $key, $element := .Site.Sections }}
+              <li class='{{ if eq $currentPath (print "/" $key "/") }} active {{ end }}'>
+                      <a href="{{ $baseUrl }}/{{$key}}">{{ $key }}</a>
+              </li>
+            {{ end }}
+          </ul>
+          <form class="navbar-form navbar-right">
+            <div class="form-group">
+              <input type="search" placeholder="Sök" class="form-control">
+            </div>
+            <button type="submit" class="btn btn-success">Sök</button>
+          </form>
+        </div><!--/.navbar-collapse -->
+      </div>
     </nav>
-  </header>

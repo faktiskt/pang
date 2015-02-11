@@ -1,7 +1,6 @@
 +++
 Categories = ["Migration"]
 date = "2015-02-06T13:06:27+01:00"
-draft = true
 title = "Migration 1"
 +++
 

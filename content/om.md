@@ -1,7 +1,7 @@
 +++
 date = "2015-02-06T12:52:09+01:00"
 draft = true
-title = "about"
+title = "Om"
 +++
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ut gravida
