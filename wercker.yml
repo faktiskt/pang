@@ -3,7 +3,7 @@ build:
   steps:
     - arjen/hugo-build:
         version: 0.12
-        flags: --buildDrafts=true --baseUrl="http://jamkatt.github.io/pang/"
+        flags: --buildDrafts=true --baseUrl=http://jamkatt.github.io/pang/
 deploy:
   steps:
     - lukevivier/gh-pages@0.2.1:
