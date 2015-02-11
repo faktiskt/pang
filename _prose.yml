@@ -18,8 +18,3 @@ prose:
               value: "Jämställdhet"
             - name: "Miljö"
               value: "Miljö"
-      - name: "title"
-        field:
-          element: "text"
-          label: "Titel"
-          value: ""
