@@ -1,13 +1,16 @@
 ---
-Categories: ["Ekonomi"]
-Description: "Ekonomi"
-Tags: ["ekonomi"]
+Categories: 
+  - Ekonomi
+Description: Ekonomi
+Tags: 
+  - ekonomi
 date: "2015-02-06T13:06:34+01:00"
 draft: true
-title: "Ekonomibar"
+title: Ekonomibar
+published: true
 ---
 
-Ekonomi är kanske inte allt.
+Ekonomi är kanske inte allt alla gånger.
 
 Donec viverra mi quis quam pulvinar at malesuada arcu rhoncus. Cum sociis
 natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. In
@@ -26,4 +29,3 @@ facilisis lectus ac semper. Aliquam at massa ipsum. Quisque bibendum purus
 convallis nulla ultrices ultricies. Nullam aliquam, mi eu aliquam tincidunt,
 purus velit laoreet tortor, viverra pretium nisi quam vitae mi. Fusce vel
 volutpat elit. Nam sagittis nisi dui.
-
