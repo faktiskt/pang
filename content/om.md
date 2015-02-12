@@ -1,27 +1,11 @@
 ---
 date: "2015-02-06T12:52:09+01:00"
-title: "Om"
+title: Om
+published: true
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ut gravida
-lorem. Ut turpis felis, pulvinar a semper sed, adipiscing id dolor.
-Pellentesque auctor nisi id magna consequat sagittis. Curabitur dapibus enim
-sit amet elit pharetra tincidunt feugiat nisl imperdiet. Ut convallis libero in
-urna ultrices accumsan. Donec sed odio eros. Donec viverra mi quis quam
-pulvinar at malesuada arcu rhoncus. Cum sociis natoque penatibus et magnis dis
-parturient montes, nascetur ridiculus mus. In rutrum accumsan ultricies. Mauris
-vitae nisi at sem facilisis semper ac in est.
+Vi är så glada, HURRA, att sajten har födelsedag, att den har födelsedag, typ precis idag...
 
-Vivamus fermentum semper porta. Nunc diam velit, adipiscing ut tristique vitae,
-sagittis vel odio. Maecenas convallis ullamcorper ultricies. Curabitur ornare,
-ligula semper consectetur sagittis, nisi diam iaculis velit, id fringilla sem
-nunc vel mi. Nam dictum, odio nec pretium volutpat, arcu ante placerat erat,
-non tristique elit urna et turpis. Quisque mi metus, ornare sit amet fermentum
-et, tincidunt et orci. Fusce eget orci a orci congue vestibulum. Ut dolor diam,
-elementum et vestibulum eu, porttitor vel elit. Curabitur venenatis pulvinar
-tellus gravida ornare. Sed et erat faucibus nunc euismod ultricies ut id justo.
-Nullam cursus suscipit nisi, et ultrices justo sodales nec. Fusce venenatis
-facilisis lectus ac semper. Aliquam at massa ipsum. Quisque bibendum purus
-convallis nulla ultrices ultricies. Nullam aliquam, mi eu aliquam tincidunt,
-purus velit laoreet tortor, viverra pretium nisi quam vitae mi. Fusce vel
-volutpat elit. Nam sagittis nisi dui.
+Så är vi ett gäng sköna tjejjor och killar också. Som tycker bra saker om bra saker och vill att saker ska bli ännu bättre...
+
+HÄNG ME'!
