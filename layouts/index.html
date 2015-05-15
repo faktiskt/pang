@@ -2,30 +2,24 @@
 <body>
 {{ partial "nav.html" . }}
 
-  <div class="jumbotron">
     <div class="container">
-      <h1>Faktiskt</h1>
-      <p>Hej och välkomna! Här hittar du fakta för att bemöta felaktiga föreställningar om:</p>
-    </div>
-  </div>
+      
+      <div class="jumbotron">
+        <h1>Faktiskt</h1>
+        <p class="lead">Hej och välkommen! Här hittar du fakta för att bemöta felaktiga föreställningar om:</p>
+        
+      </div>
+      <div id="nav-main">
+      <ul class="nav nav-pills">
+        <li class="col-md-3"><a href="/pang/ekonomi">Ekonomi</a></li>
+        <li class="col-md-3"><a href="/pang/miljo">Miljö</a></li>
+        <li class="col-md-3"><a href="/pang/migration">Migration</a></li>
+        <li class="col-md-3"><a href="/pang/jamstalldhet">Jämställdhet</a></li>
+      </ul>
+      </div>
+    
 
-  <div class="container">
-    <div class="row">
-      <div class="col-md-3">
-        <p><a class="btn-start" href="/pang/jamstalldhet" role="button">Jämställdhet</a></p>
-      </div>
-      <div class="col-md-3">
-        <p><a class="btn-start" href="/pang/miljo" role="button">Miljö</a></p>
-     </div>
-    </div>
-    <div class="row">
-      <div class="col-md-6">
-        <p><a class="btn-start" href="/pang/migration" role="button">Migration</a></p>
-      </div>
-      <div class="col-md-6">
-        <p><a class="btn-start" href="/pang/ekonomi" role="button">Ekonomi</a></p>
-      </div>
-    </div>
+    
   </div>
 {{ partial "footer.html" . }}
 </body>
