@@ -14,11 +14,20 @@
         </div>
         <div id="navbar" class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
-            {{ range $key, $element := .Site.Sections }}
+            <li><a href="/pang/jamstalldhet">Jämställdhet</a></li>
+
+            <li><a href="/pang/miljo">Miljö</a></li>
+
+            <li><a href="/pang/migration">Migration</a></li>
+
+            <li><a href="/pang/ekonomi">Ekonomi</a></li>
+
+            
+            <!--{{ range $key, $element := .Site.Sections }}
               <li class='{{ if eq $currentPath (print "/" $key "/") }} active {{ end }}'>
                       <a href="{{ $baseUrl }}/{{$key}}">{{ $key }}</a>
               </li>
-            {{ end }}
+            {{ end }}-->
           </ul>
           <form class="navbar-form navbar-right">
             <div class="form-group">
