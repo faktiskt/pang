@@ -20,7 +20,7 @@ a.btn-start{
 li {
 	font-family: "Times new roman", serif;
 	color: #000000;
-	
+	list-style-type: none;
 }
 a {
 	color: #000000;
@@ -32,13 +32,10 @@ h3 {
 #nav-main li a{
 	
 	text-align: center;
-
-
 }
 #nav-main li{
 	width: 24%;
 	text-align: center;
-	
 	padding: 0;
 	
 }
@@ -47,6 +44,14 @@ h3 {
 }
 #navbar {
 	background-color: #ffffff;
+}
+
+/* Kolla om det funkar:*/;
+@media only screen and(max-width: 400px) {
+	body {
+		font-size: 75%;
+	}
+
 }
 /*.navbar-brand {
 	border-right: 0.1px solid #e5e5e5;
