@@ -1,0 +1,54 @@
+body{
+font-family: "Times New Roman", serif;
+}
+
+a.btn-start{
+  background-color: #111;
+  color: #fff;
+  padding: 0.5em 1.0em;
+  margin: 0.2em;
+  font-style: italic;
+  font-weight: bold;
+}
+.jumbotron {
+	background-color: #FFFFFF;
+	font-family: "Times new roman", serif;
+}
+.follow {
+	margin-top: -0.75em;
+}
+li {
+	font-family: "Times new roman", serif;
+	color: #000000;
+	list-style-type: none;
+}
+a {
+	color: #000000;
+}
+#nav-main li a{
+	text-align: center;
+}
+#nav-main li{
+	width: 24%;
+	text-align: center;
+	padding: 0;
+}
+.icon-bar {
+	background-color: #000000;
+}
+#navbar {
+	background-color: #ffffff;
+}
+
+/* Kolla om det funkar:*/;
+@media only screen and(max-width: 400px) {
+	body {
+		font-size: 75%;
+	}
+
+}
+/*.navbar-brand {
+	border-right: 0.1px solid #e5e5e5;
+	border-bottom: 0.1px solid #e5e5e5;
+
+}*/

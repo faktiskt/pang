@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Migrations on  </title>
+      <generator uri="https://hugo.spf13.com">Hugo</generator>
+    <link>http://jamkatt.github.io/pang/migration/index.xml/</link>
+    
+    
+    
+    <updated>Fri, 06 Feb 2015 13:06:27 &#43;0100</updated>
+    
+    <item>
+      <title>Migration 1</title>
+      <link>http://jamkatt.github.io/pang/migration/foo/</link>
+      <pubDate>Fri, 06 Feb 2015 13:06:27 &#43;0100</pubDate>
+      
+      <guid>http://jamkatt.github.io/pang/migration/foo/</guid>
+      <description>&lt;p&gt;Curabitur venenatis pulvinar tellus gravida ornare. Sed et erat faucibus nunc
+euismod ultricies ut id justo. Nullam cursus suscipit nisi, et ultrices justo
+sodales nec. Fusce venenatis facilisis lectus ac semper. Aliquam at massa
+ipsum. Quisque bibendum purus convallis nulla ultrices ultricies. Nullam
+aliquam, mi eu aliquam tincidunt, purus velit laoreet tortor, viverra pretium
+nisi quam vitae mi. Fusce vel volutpat elit. Nam sagittis nisi dui.&lt;/p&gt;
+
+&lt;p&gt;Suspendisse lectus leo, consectetur in tempor sit amet, placerat quis neque.
+Etiam luctus porttitor lorem, sed suscipit est rutrum non. Curabitur lobortis
+nisl a enim congue semper. Aenean commodo ultrices imperdiet. Vestibulum ut
+justo vel sapien venenatis tincidunt. Phasellus eget dolor sit amet ipsum
+dapibus condimentum vitae quis lectus. Aliquam ut massa in turpis dapibus
+convallis.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Vi har inte plats och råd att ta emot alla flyktingar</title>
+      <link>http://jamkatt.github.io/pang/migration/2015-02-22-vi-har-inte-plats-och-r-d-att-ta-emot-alla-flyktingar/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
+      
+      <guid>http://jamkatt.github.io/pang/migration/2015-02-22-vi-har-inte-plats-och-r-d-att-ta-emot-alla-flyktingar/</guid>
+      <description>
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Det gör vi inte.&lt;/h2&gt;
+
+&lt;p&gt;Vi tar emot 0,??% av alla flyktingar i världen.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Så här många tar vi emot &lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Totalt antal flyktingar i världer &lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Flyktingmottagande i ex Libanon &lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Kostnad för invandring &lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Yta per capita i sverige &lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Yta per capita i annat land &lt;br&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
