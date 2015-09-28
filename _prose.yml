@@ -1,6 +1,6 @@
 prose:
   rooturl: 'content'
-  siteurl: 'http://jamkatt.github.io/pang'
+  siteurl: 'http://faktiskt.github.io/pang'
   media: 'static/images'
   metadata:
     content:
