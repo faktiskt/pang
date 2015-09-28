@@ -25,19 +25,13 @@ li {
 a {
 	color: #000000;
 }
-h3 {
-	float: left;
-	color: #FFFFFF;
-}
 #nav-main li a{
-	
 	text-align: center;
 }
 #nav-main li{
 	width: 24%;
 	text-align: center;
 	padding: 0;
-	
 }
 .icon-bar {
 	background-color: #000000;
