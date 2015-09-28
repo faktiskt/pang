@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Det finns inget klassamhälle
 Categories: 
   - Ekonomi
