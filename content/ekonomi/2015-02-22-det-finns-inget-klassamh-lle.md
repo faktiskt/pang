@@ -5,6 +5,7 @@ Categories:
   - Ekonomi
 ---
 
+
 ## Inte?
 
 - Definition av klass <br>
