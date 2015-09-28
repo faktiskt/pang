@@ -5,7 +5,6 @@ Description: Ekonomi
 Tags: 
   - ekonomi
 date: "2015-02-06T13:06:34+01:00"
-draft: true
 title: Ekonomibar
 published: true
 ---
