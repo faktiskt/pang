@@ -1,8 +1,10 @@
 ---
-Categories: null
-published: false
+Categories: 
+  - "null"
+published: true
 title: "\"Ingen tjej jag känner känner sig diskriminerad\""
 ---
+
 
 ## FY FAN VA NICE!!!!
 ### har du frågat [henne](http://www.sf.se "SF Bio") om hon varit med om nåt av det här:
